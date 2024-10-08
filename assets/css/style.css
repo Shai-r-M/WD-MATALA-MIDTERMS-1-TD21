@@ -1,5 +1,13 @@
 
 
+.bgart {
+    background-image:url("/assets/img/bgfinal.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 50%;
+
+}
 *{
     color: #b61817;
     background-color: #0c090a;
@@ -7,6 +15,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 .navbar {
     display: flex;
     justify-content:space-around;
@@ -14,24 +23,18 @@
     background-color: #b61817;
     margin: 30px;
 }
+
 .logo {
     height: 70px;
     width: auto;
 }
-.ako {
-    height: 250px;
-    width: auto;
-    margin-top: 30px;
-    margin-left: 50px;
-    display: flex;
-}
 .navbar a:hover {
     background-color:#0c090a;
-    padding: 20px 20px;
+    padding: 10px 10px;
 }
 .navbar a:hover {
     color:#d0b3a9;
-    transform: translateY(-2px);
+    transform: translateY(-1px);
 }
 a {text-decoration: #d0b3a9;
     color:#0c090a;
@@ -41,6 +44,12 @@ a {text-decoration: #d0b3a9;
     font-weight:bolder;
     font-size:large;
 }
+.cont0 {
+    display: flex;
+    column-gap: 10 px;
+    margin: 3rem 7rem;
+}
+
 .header-section {
     position:relative;
     width: 100%;
@@ -49,10 +58,11 @@ background:url(/assets/img/ShaiMatala2\ \(1\).jpg)no-repeat center/cover;
 background-size: cover;
 background-position: center;
 display:flex;
-justify-content: right;
+justify-content:left;
 align-items: center;
 color: #b61817;
-text-align: center;
+word-spacing: 5px;
+text-align:left;
 padding: 0 2rem;
 margin-bottom: 30px;
 }
@@ -64,6 +74,8 @@ h1 { font-family:sans-serif;
     margin-top: 1px;
     margin-left:50px;
 }
+
+
 h4  { color: #d0b3a9;
     font-family: 'Courier New', Courier, monospace;
     font-weight:bolder;
@@ -77,8 +89,8 @@ h3 { color: #d0b3a9;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bolder;
     font-size:large;
-    margin-top: 0;
-    margin-bottom: 5px;
+    margin-top: 0px;
+    margin-bottom: 1px;
     margin-left: 50px;
 }
 p { color: #d0b3a9;
@@ -95,20 +107,18 @@ h6 { color:#d0b3a9;
     font-weight: bold;
     font-size:medium;
     margin-left:50px;
-    margin-top: 10px;
+    margin-top: 5px;
     margin-bottom: 10px;
 }
 h7 { color: #b61817;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
-    font-size: medium;
-    margin-left: 25px;
+    font-size:large;
 }
 h8 { color: #b61817;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
-    font-size: medium;
-    margin-left: 300px ;
+    font-size: large;
 }
 h9 {font-family:sans-serif;
     font-weight:900;
@@ -118,8 +128,8 @@ h9 {font-family:sans-serif;
     margin-left:700px;
 }
 h10 {  color: #b61817;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
+    font-family: sans-serif;
+    font-weight: 900;
     font-size: x-large;
     margin-left: 200px;
 }
@@ -129,4 +139,93 @@ h11{ font-family:sans-serif;
     margin-left:15px;
     display: flex;
     justify-content:first baseline;
+}
+.hero {
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    margin-top: 100px;
+    background-color: transparent  ;
+}
+.container {
+    display: flex;
+    column-gap: 10 px;
+    margin: 3rem 7rem;
+    background-color: transparent ;
+
+}
+.educ2 {
+    margin-top: 4.1rem;
+}
+.educ3 {
+    margin-top: 4.1rem;
+}
+
+.cont2 {
+    display: flex;
+    column-gap: 10 px;
+    margin: 3rem 7rem;
+    background-color:  transparent;
+}
+.achie1 {
+    h1 { margin-bottom: 10px;}
+}
+.achie2 {
+    margin-top: 2.8rem;
+}
+.cont3 {
+    display: flex;
+    column-gap: 30 px;
+    margin: 3rem 7rem;
+    margin-left: 200px;
+    background-color: transparent ;
+}
+.hard {
+    h4 {
+        margin-left: 14px;
+    }
+}
+.soft {
+    margin-left: 23rem;
+    h4 {
+        margin-left: 14px;
+    }
+}
+.cont5 {
+    margin-left: 310px;
+    position:relative;
+    width: 100%;
+height: 200px;
+background-color:transparent;
+background-size: cover;
+background-position: center;
+display:flex;
+justify-content:left;
+align-items: center;
+word-spacing: 5px;
+padding: 0 2rem;
+margin-bottom: 30px;
+h10 { font-size: xx-large;
+margin-left: 80px;}
+}
+.Ig {
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    margin-left: 498px;
+    margin-top: -30px;
+}
+.email {
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    margin-left: 500px;
+    margin-top: 25px;
+}
+.fb {
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    margin-left: 500px;
+    margin-top: 25px;
 }
