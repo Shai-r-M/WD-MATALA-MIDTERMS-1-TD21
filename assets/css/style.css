@@ -1,15 +1,14 @@
-
-
 .bgart {
     background-image:url("/assets/img/bgfinal.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    opacity: 50%;
+    opacity: 100%;
 
 }
-*{
-    color: #b61817;
+
+
+*{  color: #b61817;
     background-color: #0c090a;
     margin: 0;
     padding: 0;
@@ -54,7 +53,7 @@ a {text-decoration: #d0b3a9;
     position:relative;
     width: 100%;
 height: 400px;
-background:url("/assets/img/ShaiMatala2(1).jpg")no-repeat center/cover;
+background-image: url(/assets/img/ShaiMatala2\ \(1\).jpg);
 background-size: cover;
 background-position: center;
 display:flex;
@@ -163,7 +162,7 @@ h11{ font-family:sans-serif;
 
 .cont2 {
     display: flex;
-    column-gap: 10 px;
+    column-gap: 10px;
     margin: 3rem 7rem;
     background-color:  transparent;
 }
@@ -175,10 +174,23 @@ h11{ font-family:sans-serif;
 }
 .cont3 {
     display: flex;
-    column-gap: 30 px;
-    margin: 3rem 7rem;
-    margin-left: 200px;
-    background-color: transparent ;
+    align-content: center;
+    margin: 3rem 5rem;
+    column-gap: -10px;
+}
+.soft {
+    margin-right:  0.5rem;
+}
+.hard {
+    margin-left: 4rem;
+}
+.hstars {
+    margin-top: 2.8rem ;
+    margin-left: 2rem;
+}
+.sstars {
+    margin-top: 2.8rem;
+    margin-left: 2rem;
 }
 .hard {
     h4 {
@@ -228,4 +240,37 @@ margin-left: 80px;}
     flex-direction: column;
     margin-left: 500px;
     margin-top: 25px;
+}
+.cont4 {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.contworks {
+    display: flex;
+    column-gap: 10 px;
+    margin: 0.5rem 7rem;
+}
+.guitar {
+    display: flex;
+    align-content: center;
+}
+.blackwhite {
+    display: flex;
+    align-content: center;
+
+}
+.works2 {
+    display: flex;
+    column-gap: 10 px;
+    margin: 0.5rem 7rem;
+}
+
+.works3 {
+    display: flex;
+    column-gap: 10 px;
+    margin: 0.5rem 7rem;
+    margin-bottom: 4rem;
+}
+html {
+    scroll-behavior: smooth;
 }
