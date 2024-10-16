@@ -60,10 +60,10 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- The project is an updated version of my resume and a compilation of my works.
+- The purpose of this website is to help other people to know me better in terms of my skills.
+- This website contains a short description about me, awards I gained, my skills, my works, and lastly, my social medias where I am active at.
+- Technologies used are HTML and CSS, I watched tutorials online to help me make a good website.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
