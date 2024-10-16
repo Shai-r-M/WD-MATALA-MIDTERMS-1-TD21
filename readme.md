@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Shai's resume (Optional)
+  Shai's resume
 </div>
 
 <br />
@@ -115,8 +115,5 @@ WD-ProjectName
 ## Resources
 
 <!-- TODO: Add References -->
-| Title | Purpose | Link |
 |fade buttons |fadeing buttons|https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_buttons_fade3|
 side by side| side by side texts |https://youtu.be/YP80fCtSodg?si=AACYRaPXrvNpB5SU
-Links to an external site.|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
