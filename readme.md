@@ -4,23 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/Shai-r-M/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/LOGO.png" alt="Nyebe" width="100" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">RESUME</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Shai's resume (Optional)
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=Shai-r-M/WD-MATALA-MIDTERMS-1-TD21)
 
 ---
 
@@ -116,5 +116,7 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
-|-|-|-|
+|fade buttons |fadeing buttons|https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_buttons_fade3|
+side by side| side by side texts |https://youtu.be/YP80fCtSodg?si=AACYRaPXrvNpB5SU
+Links to an external site.|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
